@@ -1,0 +1,585 @@
+00:52:33	Bernardo Valdes:	picante la clase de hoy?
+00:52:40	[Coordi] Abril Aiello:	Es divina esta clase
+00:53:03	Lucas Nuñez:	si yo no quiero poner animaciones tengo que ponerlas para la segunda pre entrega?
+00:53:06	Andrés Cevallos:	una genial abril el jueves pasado
+00:53:17	[Tutor] Manuel Sanchez:	Estaria bueno que pongas alguna animacion lucas
+00:53:26	Ramiro Odella:	buenas buenas
+00:53:28	[Tutor] Manuel Sanchez:	como para que sepan los tutores correctores que sabes
+00:53:44	Emilia Spinsanti:	holaa
+00:53:44	[Tutor] Manuel Sanchez:	despues las podes sacar si no te gustan
+00:55:15	Brandon Eliel Pared:	salud
+00:55:18	Barbara Sanchez:	Salud!
+01:00:00	Brandon Eliel Pared:	si
+01:00:01	Pablo Coronel:	si
+01:00:02	Matías Giardini:	Sisi
+01:00:04	Alexis Jara Acosta:	sii
+01:00:04	Maximiliano Giampieri:	si
+01:00:04	Andrés Cevallos:	sisi
+01:00:05	Ezequiel Guaimas:	sii
+01:00:05	Matias Verón:	sisi
+01:00:05	Marcelo Allamano:	si
+01:00:05	Guido Gattás:	sisi
+01:00:06	David Genero:	bueniismo
+01:00:06	Lucas Nuñez:	sisi
+01:00:06	Bernardo Valdes Pato:	sii
+01:00:07	Federico Galeano:	si
+01:00:09	Laura Herlein:	si
+01:00:27	Andrés Cevallos:	todo el proyecto, basicamente
+01:00:28	Andrés Cevallos:	jaja
+01:00:36	Ezequiel Guaimas:	jajaj
+01:02:37	Luis Batalla:	Buenas tardes, perdón la hora
+01:02:51	Camila Muñoz Manríquez:	https://www.eggradients.com/
+01:02:58	Camila Muñoz Manríquez:	https://cssgradient.io/
+01:04:19	Alexis Jara Acosta:	sajsdjasdj
+01:04:20	Andrés Cevallos:	jajajajaa
+01:04:51	Fernanda Muñoz:	uuuh me encanta esee
+01:07:37	Pablo Coronel:	se le puede poner radiente por ejemplo a las letras en sí y no al fondo?
+01:07:44	Jonathan Machado:	Muy buena esa pagina
+01:07:59	[Tutor] Manuel Sanchez:	Creo que si pablo, habria que intentarlo
+01:08:00	[Coordi] Abril Aiello:	Sii pero es otra propiedad y otro tipo de procedimiento creo pablo. Ahora te lo googleo
+01:08:13	Jonathan Machado:	con IMAGINACION
+01:08:17	Fernanda Muñoz:	que bueno que se puedan combinar, me sirve
+01:08:26	[Coordi] Abril Aiello:	O sea es googlear hacer estas cosas. Ustedes busquen "hacer esto con css" y va a aparecer
+01:08:57	[Coordi] Abril Aiello:	https://cssgradient.io/blog/css-gradient-text/
+01:08:59	Diego Machado:	puedo solamente usarlo de fondo , y lo que quiero que ponele sea un texto no tenga el mismo color
+01:09:32	[Tutor] German Martinez Wald:	Se usa mucho esto para botones
+01:09:40	Arnoldo Mauro:	trabaja como background
+01:09:41	Brandon Eliel Pared:	no
+01:09:44	Fernanda Muñoz:	nop
+01:09:46	Guido Gattás:	no
+01:09:47	Matías Giardini:	Nono, estan piolas
+01:09:48	Agostina Pulen Serra:	no
+01:09:49	Alexis Jara Acosta:	no
+01:09:50	Maximiliano Giampieri:	no
+01:09:52	Fernanda Muñoz:	ya quiero usarlos
+01:09:53	Matias Verón:	nono
+01:12:00	Nicolas Bufczyk:	poniendo un espacio le das dos clases a la misma caja?
+01:12:09	[Tutor] Manuel Sanchez:	Si nico
+01:12:19	Nicolas Bufczyk:	okey
+01:12:19	[Tutor] Manuel Sanchez:	Las clases se diferencian con espacios
+01:12:20	Lucas Nuñez:	color peru profe
+01:12:39	Lucas Nuñez:	jajajajajajajaa
+01:12:41	Lucas Nuñez:	excelente
+01:12:46	Jonathan Machado:	JAJAJA
+01:14:05	Lucas Nuñez:	:hover?
+01:15:30	Giuliano De Vito:	No respeta los márgenes
+01:15:31	Lucas Nuñez:	sii
+01:15:35	Matias D'Angelo:	claro
+01:17:03	Matias Verón:	:o
+01:17:05	Lucas Nuñez:	q elegancia la de francia
+01:17:07	Giuliano De Vito:	Si, se ve bien
+01:17:07	Jonathan Machado:	MAS CHEVERE
+01:17:09	Fernanda Muñoz:	sisi se ve bien
+01:17:11	Matias Verón:	si, se aprecia
+01:17:16	David Genero:	que lo que dijo lgante
+01:17:18	Maximiliano Giampieri:	si
+01:17:20	Jonathan Machado:	si
+01:17:20	Marcelo Allamano:	muy bien
+01:17:24	Andrés Cevallos:	ponerle un ruidito  también se puede??
+01:17:52	[Tutor] Manuel Sanchez:	Consejo, si van a hacer transiciones, recomiendo que las transiciones duren entre 0.2 y 0.5 segundos, no mas que eso, por cuestiones de UX
+01:17:58	Franklin Sanchez:	Ni a Google ni a mi jaja.
+01:18:08	[Coordi] Abril Aiello:	Lo que encontré con google de eso, es con javascript
+01:18:09	Diego Ibañez:	Se carga mas lento
+01:18:10	Sergio Moreno:	es necesario que termine una transicion para hacer un evento como un click?? O los eventos tienen prioridad?
+01:18:27	Sergio Moreno:	ok.. gracias
+01:18:46	Matias Verón:	colo tenemos hover en css?
+01:18:51	Matias Verón:	solo*
+01:18:52	Carlos Moreno:	Se puede entonces en la transición que cambie el color del box?
+01:18:55	juan solano:	cual es la diferencia entre evento y transición?
+01:19:04	[Tutor] Manuel Sanchez:	Si carlos, se puede
+01:19:08	Giuliano De Vito:	Como se llama el :hover?
+01:19:12	Giuliano De Vito:	Si no es evento
+01:19:16	Jonathan Machado:	son como adornos para hacer mas interactivo el sitio con el usuario, puede ser?
+01:19:16	juan solano:	a
+01:19:17	[Tutor] Manuel Sanchez:	pseudocalse
+01:19:25	Giuliano De Vito:	ok ok
+01:19:31	[Tutor] Manuel Sanchez:	Exacto Jonathan
+01:19:35	Carlos Moreno:	Gracias
+01:19:41	Giuliano De Vito:	lo que va después del " : " es pseudoclase
+01:19:42	juan solano:	como las imágenes ?
+01:19:45	Giuliano De Vito:	perfecto
+01:19:48	Jonathan Machado:	excelente
+01:19:53	[Tutor] Manuel Sanchez:	y Tambien hay despues de ::
+01:20:15	Diego Marin:	¿es posible que el aumento de tamaño se realice de izquierda a derecha? ¿como estirándola?
+01:20:25	[Tutor] Manuel Sanchez:	jajaja hice un curso corto
+01:20:51	Matias Verón:	sisi
+01:20:51	Fernanda Muñoz:	sip
+01:20:52	Agostina Pulen Serra:	si
+01:20:53	Alexis Jara Acosta:	si
+01:20:53	Maximiliano Giampieri:	si
+01:20:55	Diego Ibañez:	sI
+01:20:59	Tomás Cornaglia:	yes
+01:21:01	Marcelo Allamano:	si
+01:21:26	[Tutor] Manuel Sanchez:	Diego, si se puede pero no se usa scale, se usa keyframes que lo vamos a ver ahora tambien
+01:21:52	Diego Marin:	ahh genial, gracias manu
+01:21:58	Jonathan Machado:	opa
+01:22:47	Fernanda Muñoz:	:O
+01:22:50	Andrés Cevallos:	ame fuerte
+01:22:50	Matias Verón:	sisi
+01:22:50	Alexis Jara Acosta:	epa
+01:22:51	Bernardo Valdes Pato:	uff
+01:22:51	Matías Giardini:	Sisi
+01:22:51	Jonathan Machado:	Oooohhh
+01:22:52	Matias Verón:	pásame la repe
+01:22:53	Jonathan Machado:	var
+01:22:55	Bernardo Valdes Pato:	var
+01:22:55	juan solano:	pido var
+01:22:56	Diego Ibañez:	rEPLAY
+01:22:56	Marcelo Allamano:	buenisimo
+01:22:57	Matías Giardini:	var
+01:22:59	Ezequiel Guaimas:	a ver la repe
+01:23:08	Andrés Cevallos:	voy a hacer un gif de eso
+01:23:10	Tomas Mac Mahon:	Pasa la rep
+01:23:18	Bernardo Valdes Pato:	jajaja lo leo con la voz de Guido kascka
+01:23:24	Jonathan Machado:	fue GOOOOLLLL!!!
+01:23:31	Fernanda Muñoz:	mencanta
+01:23:32	Tomas Mac Mahon:	Exacto jajaja
+01:23:43	Ezequiel Guaimas:	jajaja
+01:23:56	Nahuel valiente:	profe puso cicle y no circle
+01:23:57	Matias Verón:	profe x las dudas, quedo cicle
+01:24:27	Bernardo Valdes Pato:	camitips
+01:24:28	Matias Verón:	!!!
+01:24:30	Matías Giardini:	var
+01:24:32	Agostina Pulen Serra:	tremendooo
+01:24:38	Andrés Cevallos:	quiero llorar
+01:24:39	Nahuel valiente:	2 a 0
+01:24:46	[Tutor] Manuel Sanchez:	tambien se puede con ctrl + d
+01:25:03	juan solano:	golazo
+01:25:05	Andrés Cevallos:	🥲
+01:25:06	[Tutor] Manuel Sanchez:	seleccionas lo que crees que esta reepetido y apretas ctrl +d
+01:25:13	Jonathan Machado:	MUY BUENO
+01:25:14	Maximiliano Giampieri:	gracias, Eso me sirve mucho
+01:28:02	Matías Giardini:	sisi
+01:28:02	Alexis Jara Acosta:	si
+01:28:05	Andrés Cevallos:	se ven
+01:28:31	Andrés Cevallos:	jajajaja
+01:30:40	Fernanda Muñoz:	la suavidad
+01:30:40	Franklin Sanchez:	transiciones
+01:30:41	Brandon Eliel Pared:	transición
+01:30:43	Matías Giardini:	transition
+01:30:43	Diego Ibañez:	Transicion
+01:30:45	Diego Marin:	elegancia
+01:30:46	Agostina Pulen Serra:	una transicion
+01:30:53	Andrés Cevallos:	glamour
+01:31:07	Tomás Cornaglia:	con esto nos acercamos cada vez más a la perfección: la página de homero 😆
+01:31:18	Matias Verón:	jajaja glamour
+01:31:25	Jonathan Machado:	telecentro?
+01:31:28	Alejandro Velez:	seguro es fiber jajajaa
+01:31:31	Alejandro Velez:	aaa
+01:31:32	[Coordi] Abril Aiello:	Jajaja siii
+01:31:35	Diego Marin:	vomistar
+01:32:17	Jonathan Machado:	0,5
+01:33:00	Guido Tempone:	donde podemos ver las líneas de velocidad?
+01:33:13	Franklin Sanchez:	La S en el tiempo profe
+01:33:15	Barbara Sanchez:	la S del circle4 profe
+01:33:29	Jonathan Machado:	second
+01:33:36	Matias Verón:	a verr
+01:33:37	Fernanda Muñoz:	a ver
+01:33:44	Bernardo Valdes Pato:	upaaa
+01:33:44	Jonathan Machado:	ooooooooooohhh
+01:33:46	Fernanda Muñoz:	ay que liiindp
+01:33:49	Tomas Mac Mahon:	chetoo
+01:33:50	Maximiliano Giampieri:	Bien
+01:33:56	Diego Machado:	gano el turquesa .
+01:33:56	Andrés Cevallos:	me voy feliz de esta clase
+01:33:56	Alejandro Velez:	queda buenísimo asi
+01:34:04	Jonathan Machado:	muy copado
+01:34:28	Diego Ibañez:	Con estos fundamentos se hacen los slideshows?
+01:34:40	Diego Ibañez:	Bien
+01:34:43	Diego Ibañez:	Si Carrousel
+01:34:52	Diego Ibañez:	Ok gracias
+01:34:54	Jonathan Machado:	golaso
+01:35:02	Tomás Cornaglia:	buenisimo
+01:35:03	Diego Ibañez:	Joya
+01:35:06	Andrés Cevallos:	"pidiendo prestado" de vuelta
+01:35:06	Lucas Nuñez:	uh yo quiero hamburguesa
+01:35:08	Tomás Cornaglia:	hamburguesas, que hambre
+01:35:14	Daniela Milano:	podemos hacer que cambie de un color a un gradiente?
+01:35:21	Luis Batalla:	yo copie un carrousel y me quedo todo chumi
+01:35:33	Daniela Milano:	😃
+01:35:39	Jonathan Machado:	mal
+01:36:17	Fernanda Muñoz:	jajajj
+01:36:24	Tomas Mac Mahon:	tengo jajaj
+01:36:45	Bernardo Valdes Pato:	generalmente en q parte utilizas esto?
+01:36:54	Gonzalo Sanchez:	Es mala practica que nuestro código tenga espacios? me parece mejor para la organizacion
+01:37:19	Andrés Cevallos:	pienso igual
+01:37:31	Gonzalo Sanchez:	sip
+01:37:42	Gonzalo Sanchez:	ahhh gracias cami
+01:40:38	Alejandro Velez:	no era con el padre?
+01:40:47	Alejandro Velez:	ah no dije nada tonce
+01:40:47	Sergio Moreno:	zindex del square 2??
+01:40:48	[Tutor] Manuel Sanchez:	en el translate no te faltan las comas?
+01:41:07	Nahuel valiente:	La 2 no era la de abajo?
+01:41:10	Bernardo Valdes Pato:	se ve si
+01:41:10	Diego Machado:	sisisi se nota
+01:41:11	[Tutor] Manuel Sanchez:	siiii se re ve
+01:41:12	Matías Giardini:	Sisi, se ve
+01:41:12	Fernanda Muñoz:	si se ve
+01:41:13	Brandon Eliel Pared:	si se ve
+01:41:13	Alejandro Velez:	sisi se ve
+01:41:13	Matias Verón:	se nota sisi
+01:41:14	Tomas Mac Mahon:	se notaaa
+01:41:23	Maximiliano Giampieri:	se ve
+01:41:25	Jonathan Machado:	siiii mal
+01:41:28	Fernanda Muñoz:	siii re
+01:41:31	Jonathan Machado:	re va
+01:41:44	Matías Giardini:	Sisi, que muestra la portada de un comic y atras una pagina
+01:41:49	Nahuel valiente:	se puede hacer que desaparezca?
+01:42:18	[Tutor] Manuel Sanchez:	que desaparezca el de arriba?
+01:42:28	Nahuel valiente:	el violeta
+01:42:30	Alejandro Velez:	nop
+01:42:30	Matias Verón:	nono
+01:42:31	Andrés Cevallos:	sisi, como para esconder el de abajo
+01:42:33	Maximiliano Giampieri:	no
+01:42:33	Alexis Jara Acosta:	nop
+01:42:34	[Coordi] Abril Aiello:	Eso es con display none nahue. Vos decis que desaparezca con alguna transición o algo así?
+01:42:34	Marcelo Allamano:	no
+01:42:36	Diego Ibañez:	No Camila
+01:42:38	Matías Giardini:	nono
+01:42:38	[Tutor] Manuel Sanchez:	con display: hidden se puede hacer, no se si se lo puede meter en una transition
+01:43:15	Brandon Eliel Pared:	mi duda es como funcionaria para celular ya que no tenemos un puntero por así decirlo
+01:43:15	Diego Machado:	esta medio feo asi
+01:43:26	Marcelo Allamano:	se puede con dos imagenes?
+01:43:30	Franklin Sanchez:	Y si se le cambia la opacidad?
+01:43:36	Andrés Cevallos:	pero para una descripción atrás de una imagen, esta bueno
+01:43:48	Nahuel valiente:	muchas gracias
+01:43:49	Gustavo Mamani:	El position absolute que propiedad le da al Square 1 y Squeare2
+01:43:51	Gustavo Mamani:	'?
+01:43:57	[Tutor] Manuel Sanchez:	Brandon, para celu no funciona y es buena practica sacar todas las animaciones
+01:44:02	[Tutor] Manuel Sanchez:	porque quedan mal
+01:44:09	Brandon Eliel Pared:	oka
+01:44:11	[Tutor] Manuel Sanchez:	Si marcelo se puede
+01:44:20	Gustavo Mamani:	ahhhhhh
+01:44:23	Gustavo Mamani:	Gracias!!
+01:44:30	Tomás Cornaglia:	cómo se cuál va a quedar por encima del otro?
+01:44:37	Brandon Eliel Pared:	Gracias Manu!
+01:44:42	juan solano:	cheto
+01:44:45	Marcelo Allamano:	con position absolute es responsive?
+01:44:45	[Tutor] Manuel Sanchez:	podes usar la propiedad z-index Tomas
+01:44:49	Giuliano De Vito:	Hacer eso para celular esta complicado no? jaja
+01:44:55	Diego Ibañez:	Copiado Houston
+01:44:59	Tomás Cornaglia:	barbaro, gracias Manu
+01:45:01	[Tutor] Manuel Sanchez:	para que te asegures que se quede arriba el que queiras
+01:45:10	Fernanda Muñoz:	claro
+01:45:16	[Tutor] Manuel Sanchez:	Masomenos marcelo, depende en donde este puesto
+01:45:20	Giuliano De Vito:	okok
+01:52:53	Romy Delgado:	me pueden pasar invitacion al servidor de discord del curso, pls?
+01:54:36	Franklin Sanchez:	https://discord.gg/upt3c8Kk
+01:56:09	Lucas Nuñez:	profe se puede ocultar un texto y dsp con un hover mostrarlo?
+01:56:23	[Coordi] Abril Aiello:	Si lu. Se puede
+01:57:08	[Coordi] Abril Aiello:	Todo lo que les surja como duda tipo "se puede hacer esto?" Se puede jajaja. Alguuunas cosas no van a poder hacerse solo con css pero en general, se puede
+01:57:14	[Coordi] Abril Aiello:	Si buscan en Google seguro lo encuentran
+01:57:15	Marcelo Allamano:	scrollea el código yo no lo veo
+01:58:14	Marcelo Allamano:	mis disculpa soy muy lento para escribir y resumo por demas
+01:58:58	juan solano:	que seria scale?
+01:59:06	[Tutor] Manuel Sanchez:	al h2, el hover le tenes que poner display inherit o auto
+01:59:18	Matias Verón:	el primer botón fue scale juan !
+01:59:33	Diego Machado:	eee que piola
+01:59:44	Jonathan Machado:	ooooh ese me re gustó
+01:59:59	Giuliano De Vito:	Si no lo seguís con el mouse
+02:00:01	Giuliano De Vito:	se vuelve?
+02:00:02	Diego Ibañez:	Se puede hacerlo rotar en sentido inverso Profe?
+02:00:24	Diego Ibañez:	Bien
+02:00:28	Fernanda Muñoz:	todo esto se puede hacer con imágenes no?
+02:00:37	Fernanda Muñoz:	a listo
+02:00:40	Fernanda Muñoz:	gracias!
+02:00:56	[Tutor] Manuel Sanchez:	se usan contenedres genericos por una cuestion de facilidad
+02:01:00	[Coordi] Abril Aiello:	Importante con esto que estamos viendo. Tengan muy presente cuando le agregan un alguito a un elemento, no romper con la estructura del resto de los elementos ni de la ventana del navegador. O sea no tapen a otros elementos ni hagan que se corran de lugar
+02:01:15	Marcelo Allamano:	ok
+02:01:32	[Coordi] Abril Aiello:	Respeten que quede todo prolijo, no agreguen cosas por agregar. Midan bien las cantidades
+02:02:32	Tomás Cornaglia:	hay que repetirlo para cada navegador?
+02:02:44	Andrés Cevallos:	Google seria como el comodin, no haría falta, no??
+02:02:55	Tomás Cornaglia:	aaah cuando mezclas trafos
+02:02:58	Tomás Cornaglia:	bien
+02:03:01	[Tutor] Manuel Sanchez:	con las transformaciones mas complicadas
+02:03:13	[Tutor] Manuel Sanchez:	Como andres?
+02:03:26	Andrés Cevallos:	que reforzaron opera y mozila
+02:03:50	Andrés Cevallos:	el Chrome no se refuerza, eso decia
+02:03:50	[Tutor] Manuel Sanchez:	Siempre es mejor para todos, por las dudas, total es una sola linea de codigo
+02:03:59	Andrés Cevallos:	ahí va, gracias
+02:04:08	[Coordi] Abril Aiello:	Claro, aparte pensa que no controlas desde que navegador el usuario abre tu sitio
+02:04:13	Sergio Moreno:	Disculpen que pregunto de nuevo, cuando finaliza la transicion en la posicion final, la posicion es la relativa inicial del div? No es que el cuadrado pasa a ocupar otro row arriba o abajo sino que es la misma del inicio??
+02:05:14	[Tutor] Manuel Sanchez:	es la misma que en el inicio Sergio, e s asi como decis
+02:05:21	Sergio Moreno:	gracias
+02:07:54	Matias Verón:	camvbiodecolor
+02:07:56	Andrés Cevallos:	cambiodecolor
+02:10:29	Fernanda Muñoz:	tamos
+02:10:30	Diego Machado:	siuu
+02:10:32	Jonathan Machado:	tengo miedo
+02:10:36	Andrés Cevallos:	anciedatt
+02:10:53	Luis Batalla:	cool
+02:10:54	Tomás Cornaglia:	noooo y lo hace todo suave
+02:10:54	Alejandro Velez:	mama
+02:10:54	juan solano:	oaaaaaaaaa
+02:10:55	Jonathan Machado:	ES MUY BUENO!!
+02:10:57	Diego Machado:	eaaa
+02:10:58	Jose Sosa:	ooooohhhh
+02:11:00	Matias Verón:	opa
+02:11:00	Ezequiel Guaimas:	morrrtal jajaj
+02:11:01	Maximiliano Giampieri:	genial
+02:11:07	juan solano:	chetaso
+02:11:12	Carlos Moreno:	Waoooo
+02:11:15	Jonathan Machado:	Pero se entiende las posibilidades justamente
+02:11:17	Andrés Cevallos:	el cielo es la pagina de homero
+02:11:18	Tomás Cornaglia:	messi
+02:11:20	Giuliano De Vito:	Ahora entiendo como hizo la pagina homero
+02:11:21	Gaston Gauna:	las posibilidades son infintas
+02:11:26	Bernardo Valdes Pato:	tremendo
+02:11:34	Laura Herlein:	puedo poner imágenes en diferentes segunt
+02:11:40	Laura Herlein:	segundos ?
+02:12:09	Carlos Moreno:	En CodePen hay excelentes ideas
+02:12:20	Camila Muñoz Manríquez:	https://codepen.io/
+02:13:01	[Tutor] Manuel Sanchez:	Si laura
+02:13:04	Jonathan Machado:	solo css?? ooohhhh
+02:13:11	Jonathan Machado:	Me re gusta
+02:13:30	Gaston Gauna:	eso se puede usar gratis??
+02:13:38	[Tutor] German Martinez Wald:	Si Gaston
+02:13:44	Franklin Sanchez:	A la distancia de un copy-paste xd
+02:13:58	Carlos Moreno:	Jajajaja si
+02:14:02	Gaston Gauna:	muy bueno
+02:14:06	Jonathan Machado:	q flash
+02:14:15	Andrés Cevallos:	pfffff, que golaso ese cielo
+02:14:51	Franklin Sanchez:	A ver el de pokemon jaja
+02:14:51	Tomás Cornaglia:	trippy
+02:14:51	Luis Batalla:	despegado
+02:14:52	Alejandro Velez:	fíjate que pokemon te toca xD
+02:14:53	Franklin Sanchez:	Por fa
+02:14:58	Matías Giardini:	Tremendo
+02:15:18	Matias Verón:	buuu jajaja
+02:15:20	Andrés Cevallos:	charmanderr
+02:15:22	Franklin Sanchez:	Team Squirtle
+02:15:43	Andrés Cevallos:	eso medio fuerteeee, mi cabeza es como de 6
+02:15:49	Guido Tempone:	charmander como debe ser
+02:15:56	Nahuel valiente:	team magicarp
+02:16:16	Arnoldo Mauro:	el tema es que no haga mas lenta la web
+02:16:23	Jonathan Machado:	TREMENDO!!
+02:16:25	Matías Giardini:	Salud
+02:16:26	Brandon Eliel Pared:	salud
+02:16:28	Alan Assel:	consulta en el curso no vamos a ver jQuery no?
+02:16:39	Jonathan Machado:	xq no hay imágenes ni videos
+02:16:50	Arnoldo Mauro:	okis
+02:16:51	[Coordi] Abril Aiello:	Ay es excelente esa jajajajaj no se por que me re gusta
+02:17:02	Luis Batalla:	todo esto se puede "robar" para nuestros proyectos?
+02:17:08	[Coordi] Abril Aiello:	Si luis
+02:17:15	Jonathan Machado:	Tengo que tomar café para ser programador??
+02:17:23	[Coordi] Abril Aiello:	E incluso podrían subir sus propios códigos y aportar why not
+02:17:36	Jonathan Machado:	golaso
+02:17:36	juan solano:	juju
+02:17:36	[Coordi] Abril Aiello:	Si queres sobrevivir si joni
+02:17:39	Jonathan Machado:	Es legal
+02:17:50	Diego Ibañez:	Es código abierto
+02:17:55	[Tutor] Manuel Sanchez:	es todo open source
+02:17:58	Matias Verón:	el hola mundo lo hice yo, páguenme (?
+02:18:04	Diego Ibañez:	jajaja
+02:18:09	Leandro Aquino:	jaja
+02:18:35	Sergio Moreno:	que se espera aca que >Hagamos nuestras propias animaciones o tomar prestadas otras y tunearlas??
+02:18:52	Andrés Cevallos:	en ese orden
+02:18:55	[Tutor] German Martinez Wald:	Yo te recomendaría probar animaciones
+02:18:57	Sergio Moreno:	okaaa
+02:19:05	[Coordi] Abril Aiello:	La clase es para que aprendan como funcionan
+02:19:13	Sergio Moreno:	gracias
+02:19:18	[Coordi] Abril Aiello:	O sea si no saben como funcionan quizás no sabrían robarlas
+02:19:30	[Tutor] German Martinez Wald:	Codearlas, luego copy paste lo hace cualquiera, entender a fondo no cualquiera!
+02:19:30	[Coordi] Abril Aiello:	Ahora saben qué googlear para conseguir lo que quieren
+02:21:12	Gonzalo Sanchez:	Como se llamaba la otra pagina de animaciones?
+02:21:18	Diego Ibañez:	No es hover
+02:21:25	Franklin Sanchez:	codepen.io
+02:21:33	Franklin Sanchez:	Esa era la página
+02:21:42	Gonzalo Sanchez:	graciass
+02:22:03	Carlos Moreno:	https://codepen.io/
+02:22:14	Diego Marin:	cosmico
+02:22:16	Lucas Nuñez:	podes hacer que la haga una vez cada tanto?
+02:22:21	Jonathan Machado:	esto se está poniendo muy chevere
+02:22:33	Lucas Nuñez:	ahh okok
+02:22:34	Luis Batalla:	como hacias para cargar la librería?
+02:22:41	Nahuel valiente:	cómo hacemos para que no salga de la pantalla???
+02:23:23	Diego Ibañez:	Hay que leer la documentación seguramente del creador
+02:23:31	Gaston Gauna:	un text aling:center(?
+02:24:32	Guido Tempone:	link?
+02:24:38	Camila Muñoz Manríquez:	https://animate.style/
+02:24:45	Camila Muñoz Manríquez:	https://michalsnik.github.io/aos/
+02:25:02	Lucas Nuñez:	profe no son 5 htmls el minimo para la entrega final finalisima?
+02:25:14	Alejandro Velez:	la documentación es la que tengo en mi compartido de drive verdad? o en la pagina del curso hay mas documentos?
+02:25:51	Andrés Cevallos:	tremendooo
+02:26:25	[Tutor] German Martinez Wald:	Como siempre les dejo algunos links por el canal grupal
+02:26:28	[Coordi] Abril Aiello:	En el drive esta toda la info que da coder ale
+02:26:33	[Tutor] German Martinez Wald:	Cualquier cosa nos preguntan
+02:26:48	[Coordi] Abril Aiello:	Pero los links complementarios que se pasan por acá son otra cosa. No están en esa carpeta
+02:26:48	Alejandro Velez:	gracias Abril
+02:27:19	Tomás Cornaglia:	Estos efectos me vienen como anillo al dedo. Pero tengo una consulta, hay forma con css de hacer que la animación pase una vez? No en la carga de la página, sino que a medida que scrolleo, pase una vez, pero luego quede fijo el objeto.
+02:27:31	[Tutor] German Martinez Wald:	Si Tomas
+02:27:37	Lucas Nuñez:	adentro de ese div podemos hacer un grid y jugar con eso?
+02:27:47	[Tutor] German Martinez Wald:	Con AOS
+02:28:10	[Tutor] German Martinez Wald:	Lo mande por el canal general
+02:28:24	Brandon Eliel Pared:	no
+02:28:24	Fernanda Muñoz:	nop
+02:28:25	Jonathan Machado:	no
+02:28:26	Andrés Cevallos:	nono
+02:28:26	Gustavo Mamani:	nop
+02:28:27	Giuliano De Vito:	no
+02:28:27	Maximiliano Giampieri:	no
+02:28:38	Laura Herlein:	nop
+02:28:48	Franklin Sanchez:	Si se ve
+02:28:55	Matías Giardini:	Si, se ve
+02:29:32	Diego Ibañez:	Me imagino Profe que hay muchas otras librerías aparte de éstas.
+02:29:40	Lucas Nuñez:	profe hoy no duermo probando cosas
+02:29:42	Nahuel valiente:	profe puede poner una imagen para ver ???
+02:29:42	Diego Ibañez:	Joya
+02:30:47	[Coordi] Abril Aiello:	Esa es la actitud lucas
+02:30:50	Jonathan Machado:	ahí está
+02:30:55	Jonathan Machado:	muy bueno
+02:31:02	Andrés Cevallos:	el lag que tengo no me deja verlo
+02:31:03	Andrés Cevallos:	jaja
+02:31:27	Diego Ibañez:	Una transicion
+02:31:29	Luis Batalla:	orientacion
+02:31:31	Franklin Sanchez:	El tipo de transición
+02:31:33	Tomás Cornaglia:	la curva de transicion
+02:31:36	Franklin Sanchez:	Eso
+02:31:37	Gonzalo Sanchez:	la velocidad homogenea
+02:31:57	[Coordi] Abril Aiello:	Aca con las librerías empezamos a ver la importancia de ir adaptándose al ingles no? Si necesitamos leer la documentación y esta está en ingles, necesitamos poder mas o menos saber leerla y entenderla
+02:32:19	Diego Ibañez:	Sí. Saber ingles ayuda un montón!
+02:32:43	Diego Ibañez:	Siiii
+02:32:58	Diego Ibañez:	Hay cosas en inglés que no se la encuentra en español
+02:33:02	Andrés Cevallos:	a mi me pidieron mas ingles que los lenguajes mismos de programacion
+02:33:05	Alejandro Velez:	excelenete
+02:33:06	Matías Giardini:	Muy buena
+02:33:06	juan solano:	buena
+02:33:07	Tomás Morales Segura:	muy buena!
+02:33:07	Santiago Gonzalez:	Muy buena
+02:33:08	David Genero:	mucha dataaa
+02:33:08	Gaston Gauna:	muyy buena
+02:33:09	Tomás Cornaglia:	mucho máas relax
+02:33:09	Santiago Gonzalez:	se usara7
+02:33:10	Diego Marin:	buenisima
+02:33:11	Guido Tempone:	hermosa la clase
+02:33:12	Maximiliano Giampieri:	muy buena
+02:33:12	Diego Machado:	Muy interesante
+02:33:13	Gustavo Mamani:	Muy buena
+02:33:13	Lucas Nuñez:	divertido
+02:33:14	Giuliano De Vito:	sisi
+02:33:14	Alexis Jara Acosta:	buenisima
+02:33:14	Giuliano De Vito:	copado
+02:33:15	Fernanda Muñoz:	hermosa, me re divierte esta parte
+02:33:15	Brandon Eliel Pared:	lo ultimo voy a usarlo creo
+02:33:18	Laura Herlein:	me encanto !!!
+02:33:18	Matías Giardini:	Sisi, esta bueno para usar
+02:33:19	Diego Ibañez:	Linda clase. Alguna animación voy a usar
+02:33:23	Bernardo Valdes Pato:	muy buena
+02:33:49	Lucas Nuñez:	se puede decir q estoy manija en usar todo y probar
+02:34:13	Jonathan Machado:	ya termina la clase??
+02:34:17	Jonathan Machado:	Nooo
+02:34:28	Jonathan Machado:	Pasó volando
+02:34:34	Jonathan Machado:	muy bueno
+02:34:34	Andrés Cevallos:	posta
+02:34:35	Luis Batalla:	no termino mas de re armar mi proyecto...
+02:34:36	Luis Batalla:	jajaj
+02:34:43	Giuliano De Vito:	Nono, nada
+02:34:48	[Coordi] Abril Aiello:	No vas a terminar hasta dentro de un rato largo luis
+02:34:49	Franklin Sanchez:	Todo perfecto
+02:34:49	Andrés Cevallos:	una maravilla
+02:34:54	juan solano:	segfuramente cuando codee...
+02:34:54	Matías Giardini:	Nono
+02:34:55	Fernanda Muñoz:	nono tranqui
+02:35:02	Diego Ibañez:	No Profe. Hay que practicar nomás
+02:35:04	[Coordi] Abril Aiello:	El curso no va ni por la mitad. Por que tendrían terminado el proyecto?
+02:35:04	Ezequiel Guaimas:	van a salir durante la practica, pero muy claro
+02:35:08	Guido Tempone:	👌
+02:35:09	Diego Ibañez:	Siiii Maxi
+02:35:22	Luis Batalla:	si, tal cual, cada cosa que se agrega se pone mas buena...
+02:35:29	Jonathan Machado:	el de pelo largo??
+02:35:37	Jonathan Machado:	siii un genio
+02:36:00	Jose Sosa:	lo vi lo vi
+02:36:05	Lucas Nuñez:	profe yo me iba a meter a un bootcap de aticma
+02:36:11	Lucas Nuñez:	casi pierdo mi vida
+02:36:12	Lucas Nuñez:	en eso
+02:36:19	Jonathan Machado:	totalmente
+02:36:22	Diego Ibañez:	Sí, así lo dice El.
+02:36:40	Jonathan Machado:	pasa con cualquier carrera
+02:36:44	Andrés Cevallos:	depende de uno
+02:36:46	Nahuel valiente:	imposible que sea mejor
+02:36:50	Franklin Sanchez:	Yo por eso no sirvo para cursos gratis en YouTube. Al no tener desafíos no practicaba y me aburria
+02:36:51	David Genero:	YOu re the one Cami!
+02:36:54	Jonathan Machado:	como aprender guitarra
+02:36:56	Matias Verón:	Crack cami
+02:37:17	Diego Ibañez:	Sacrificarse!
+02:37:19	Lucas Nuñez:	la practica hace al maestro
+02:37:25	Fernanda Muñoz:	si a todo
+02:37:32	Jonathan Machado:	no existe el "NO TENGO TIEMPO"
+02:37:39	Ezequiel Guaimas:	programamos en nuestra cabeza mientras tratamos de dormir jajaaj re manija
+02:37:42	Tomas Valenzuela:	perdón quizá no tenga que ver con la clase pero quería seguir la carrera de ux/ui pero no se si meterme a la de desarrollo ux o diseño ux, cuales son sus diferencias?
+02:37:47	Daniela Milano:	a codear!
+02:37:49	Bernardo Valdes Pato:	totalmente
+02:37:50	Diego Ibañez:	Gracias Camila
+02:37:51	Luis Batalla:	ojala Jonathan...
+02:37:51	Jose Sosa:	jajajajajn
+02:37:54	Jose Sosa:	si si
+02:37:58	Fernanda Muñoz:	yo ya soñe que estaba codeando jajajja
+02:38:01	Ezequiel Guaimas:	sii tal cual
+02:38:03	Franklin Sanchez:	Yo cuando hice mi tesis en la universidad, me levantaba a media noche con soluciones a problemas jajaja
+02:38:10	Diego Ibañez:	jajaja
+02:38:23	[Tutor] Manuel Sanchez:	las herramientas
+02:38:26	[Tutor] Manuel Sanchez:	que se usan
+02:38:26	Tomas Valenzuela:	nono en coder
+02:38:35	Yvan Bazalar:	Son como rutas
+02:38:37	[Tutor] Manuel Sanchez:	puedo prender el mic? jajaj
+02:38:39	Yvan Bazalar:	contienen varios cursos
+02:38:40	[Coordi] Abril Aiello:	Como decimos esto, también tengan en cuenta descansar, socializar, mover la parte sana de la cabeza digamos. Para mi el "no tengo tiempo" existe. No hay que exigirse de más porque no sale nada bueno de eso. Conozcan sus limites
+02:39:28	[Coordi] Abril Aiello:	Con la parte sana de la cabeza me refiero a mover lo que nos hace bien. Me exprese medio mal y raro disculpen
+02:39:36	Tomas Valenzuela:	aaa perfecto ahora si, mil gracias manu
+02:39:40	Bernardo Valdes Pato:	se entendio abri
+02:39:51	Diego Ibañez:	Gracias Abril
+02:40:02	Lucas Nuñez:	jugar al lol
+02:40:06	Diego Ibañez:	Uhhh
+02:40:20	Maira Garces:	Buenas noches! Consulta, pasaron  los presentes del dia de hoy? Porque a mi no me figura. Gracias
+02:40:35	[Coordi] Abril Aiello:	La mejor clase
+02:40:40	[Tutor] Manuel Sanchez:	Maira, tendrias que hablaralo con tu tutor
+02:40:42	[Tutor] Manuel Sanchez:	German
+02:40:42	Luis Batalla:	hasta el jueves...
+02:40:43	Jonathan Machado:	chauuu… muy buena clase
+02:40:44	Diego Ibañez:	Gracias chicos!!!
+02:40:47	Antonella Navarro:	chauuu
+02:40:47	Franklin Sanchez:	Chao a todos
+02:40:47	Diego Ibañez:	jajaja
+02:40:48	Guido Tempone:	buenas noches
+02:40:48	Fernanda Muñoz:	jajajja messirve
+02:40:48	Matias Verón:	por favor ! !
+02:40:48	Daniela Milano:	gracias!
+02:40:49	Tomás Morales Segura:	saludos profeee
+02:40:49	Bernardo Valdes Pato:	graciass
+02:40:49	Tomás Cornaglia:	#camimatapsicologo
+02:40:51	Luis Batalla:	chau
+02:40:51	Micaela Carrizo:	Muchas Graciasss por la clase!
+02:40:52	Andrés Cevallos:	chauchis
+02:40:53	Alejandro Velez:	gracias Cami
+02:40:53	Matilde Funaro:	Muchisimas gracias!
+02:40:54	Gonzalo Lochocki:	Nos vemos!
+02:40:54	Brandon Eliel Pared:	nos vemos mañana
+02:40:55	Jonathan Machado:	éxitos a todos!!
+02:40:55	Gaston Gauna:	adiosss
+02:40:55	Carlos Moreno:	Buena noche profe
+02:40:56	Alexis Jara Acosta:	Nos vemos !
+02:40:57	Diego Ibañez:	Chauuu
+02:40:57	Matías Giardini:	Gracias profe
+02:41:00	Lucas Nuñez:	a comer
+02:41:00	Guido Gattás:	buenas noches!
+02:41:01	Jose Sosa:	chau
+02:41:01	Matías Giardini:	Nos vemos
+02:41:04	Jonathan Machado:	tomorrow
+02:41:05	Arnoldo Mauro:	muy linda clase Cami como siempre
+02:41:06	Matias Verón:	mañana a las 19 aca estaremos
+02:41:07	Diego Ibañez:	Hasta mañana
+02:41:10	Lucas Nuñez:	yo profe
+02:41:11	Jose Sosa:	dale mañana seguro
+02:41:13	Ezequiel Guaimas:	hasta mañana!
+02:41:14	Federico Galeano:	Hasta mañana!!!
+02:41:14	Maximiliano Giampieri:	Nos vemos, gracias profe
+02:41:17	Brandon Eliel Pared:	jeje
+02:41:20	Luis Batalla:	yo tengo Python a esa hora
+02:41:20	Daniela Milano:	👍
+02:41:25	Fernanda Muñoz:	adios gente! yo veo si llego a conectarme mañana
+02:41:27	Alejandro Velez:	chau
+02:41:27	Barbara Sanchez:	Buenas noches
+02:41:28	[Coordi] Abril Aiello:	Adiosss
+02:41:28	Jonathan Machado:	bye
+02:41:29	Diego Marin:	chau
+02:41:31	Matias Verón:	nos vemos !
