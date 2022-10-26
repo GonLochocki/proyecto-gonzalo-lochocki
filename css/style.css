@@ -247,3 +247,12 @@ h3 {
   box-shadow: 5px 5px;
 }
 
+.art-tabla {
+  text-align: center;
+  color: white;
+}
+
+.art-tabla li {
+  text-align: center;
+}
+
