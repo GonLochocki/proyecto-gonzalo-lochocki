@@ -1,0 +1,27 @@
+/* <<<<< Accesorios >>>>> */
+
+.pie {
+    font-size: 20px;
+    text-align: center;
+    background: rgb(146, 146, 153);
+    background: linear-gradient(
+      90deg,
+      rgba(146, 146, 153, 1) 0%,
+      rgba(24, 24, 24, 1) 100%);    
+       a {
+         text-decoration: none;
+         color: white;
+  }
+}
+  
+  .mod-acc {
+   transition: all 0.5s;
+  }
+  
+  .mod-guitar {
+    transition: all 0.5s;
+  }
+  
+  .mod-acc:hover {
+    transform: scale(0.75);
+  }

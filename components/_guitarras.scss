@@ -1,0 +1,43 @@
+/* <<<<< Galeria guitarras >>>>> */
+
+.titulo-guitarra {
+    text-align: map-get($titulo-guitarra, alineacion);
+    padding: map-get($titulo-guitarra, relleno);
+    height: map-get($titulo-guitarra, alto);
+    font-size: map-get($titulo-guitarra, fuente-dim);
+    background: rgb(37, 187, 189);
+    background: linear-gradient(
+      344deg,
+      rgba(37, 187, 189, 1) 0%,
+      rgba(86, 111, 111, 1) 100%
+    );
+  }
+  
+  #galeria img {
+    width: $imagen-responsiva;
+  }
+  
+  .mod-guitar {
+    padding: nth($size, 6);
+  }
+  
+  .mod-guitar:hover {
+    transform: scale(0.75);
+  }
+  
+  #galeria-2 img {
+    width: $imagen-responsiva;
+  }
+  
+  .pie {
+    text-align: center;
+    font-size: nth($size, 4);
+    background: rgb(37, 187, 189);
+    background: linear-gradient(344deg, rgb(37, 187, 189) 0%, rgb(86, 111, 111) 100%);
+  
+         a {
+           text-decoration: $sin-decoracion;
+           color: nth($colores, 4);
+          }
+       }
+  

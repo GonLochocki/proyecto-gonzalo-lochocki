@@ -1,0 +1,46 @@
+/* <<<<<<<< Index >>>>>>>> */
+
+#fondo-principal {
+    background-image: url("../img/Fondo\ nuevo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  
+  .animacion-inicio {
+    font-size: nth($size , 7);
+    text-align: justify;
+    padding: nth($size , 2);
+    color: nth($colores , 1);
+  }
+  
+  .titulo {
+    text-align: center;
+    background: rgb(37, 187, 189);
+    background: linear-gradient(
+      344deg,
+      rgba(37, 187, 189, 1) 0%,
+      rgba(86, 111, 111, 1) 100%
+    );
+  }
+  
+  .personalizado {
+    background: rgb(146, 146, 153);
+    background: linear-gradient(
+      90deg,
+      rgba(146, 146, 153, 1) 0%,
+      rgba(24, 24, 24, 1) 100%
+    );
+  }
+  
+  .mio {
+    background: rgb(146, 146, 153);
+    background: linear-gradient(
+      90deg,
+      rgba(146, 146, 153, 1) 0%,
+      rgba(24, 24, 24, 1) 100%
+    );
+  }
+  
+  .font {
+    font-size: nth($size , 4);
+  }

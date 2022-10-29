@@ -1,0 +1,29 @@
+/* <<<<< Artistas >>>>> */
+
+#fondo-artista {
+    background-color: nth($colores , 5);
+  }
+  
+  .mod {
+    padding: nth($size , 9);
+    color: nth($colores , 7);
+  }
+  
+  .m {
+    margin: 20px;
+    background-color: nth($colores , 5);
+  }
+  
+  .pie {
+    font-size: nth($size , 4);
+    text-align: center;
+    background: rgb(146, 146, 153);
+    background: linear-gradient(
+      90deg,
+      rgba(146, 146, 153, 1) 0%,
+      rgba(24, 24, 24, 1) 100%);    
+       a {
+         text-decoration: $sin-decoracion;
+         color: nth($colores, 4);
+  }
+}

@@ -1,0 +1,36 @@
+/* <<<<< Galeria Videos >>>>> */
+
+#galeria-video {
+    margin-top: nth($size , 4);
+  }
+  
+  .modificado {
+    margin-left: nth($size , 3);
+    margin-right: nth($size , 3);
+  }
+  
+  .fondo-video {
+    background-color: nth($colores , 5);
+  }
+  
+  .borde {
+    border: solid white 1px;
+  }
+  
+  .vid-mod {
+    padding: nth($size , 2);
+  }
+  
+  .pie {
+    font-size: 20px;
+    text-align: center;
+    background: rgb(146, 146, 153);
+    background: linear-gradient(
+      90deg,
+      rgba(146, 146, 153, 1) 0%,
+      rgba(24, 24, 24, 1) 100%);    
+       a {
+         text-decoration: $sin-decoracion;
+         color: nth($colores , 4);
+  }
+}

@@ -1,0 +1,38 @@
+  // ************* Articulos ***************
+  
+  #fondo-articulos {
+    background-color: black;
+    color: white;
+  }
+  
+  .art-titulo {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  
+  .art-texto {
+    text-align: justify;
+    font-size: 17px; 
+    padding: 15px;
+  }
+  
+  .art-col {
+    margin-top: 25px;
+  } 
+  
+  .art-img {
+    padding: 5px;
+    border-radius: 20px;
+    box-shadow: 5px 5px;
+  }
+  
+  .art-tabla {
+    text-align: center;
+    color: white;
+  }
+  
+  .art-tabla li {
+    text-align: center;
+  }
+  
