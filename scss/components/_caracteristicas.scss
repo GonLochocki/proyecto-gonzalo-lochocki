@@ -1,12 +1,11 @@
-/* <<<<< Características >>>>> */
-
+/* <<<<< Caracteristicas >><*/
 h3 {
   margin: 15px auto; 
   font-weight: bold;
 }
 
 .pie {
-  font-size: nth($size , 4);
+  font-size: nth($size , 4); // lista
   text-align: center;
   background: rgb(146, 146, 153);
   background: linear-gradient(
@@ -14,7 +13,7 @@ h3 {
     rgba(146, 146, 153, 1) 0%,
     rgba(24, 24, 24, 1) 100%);    
      a {
-       text-decoration: $sin-decoracion;
-       color: nth(colores , 4);
+       text-decoration: $sin-decoracion; // variable
+       color: nth($colores , 4);  // lista
 }
 }
