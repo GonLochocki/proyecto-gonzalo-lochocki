@@ -37,6 +37,10 @@ h3 {
   background: linear-gradient(344deg, rgb(37, 187, 189) 0%, rgb(86, 111, 111) 100%);
 }
 
+#fondo-guitarra section {
+  background-color: white;
+}
+
 #galeria img {
   width: 100%;
 }
@@ -207,6 +211,15 @@ h3 {
 }
 
 /* <<<<< Caracteristicas >><*/
+#fondo-caracteristicas {
+  background-image: url("../img/fondo nota musical.jpg");
+  background-repeat: repeat;
+}
+
+.custom {
+  background-color: white;
+}
+
 h3 {
   margin: 15px auto;
   font-weight: bold;
