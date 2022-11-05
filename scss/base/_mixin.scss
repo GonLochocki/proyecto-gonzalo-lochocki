@@ -1,10 +1,8 @@
-@mixin texto ($size, $align, $padding, $color) {
-    font-size: $size;
-    text-align: $align;
-    padding: $padding;
-    color: $color;
+@mixin texto-h3 ($margin, $weight) {
+    margin: $margin;
+    font-weight: $weight;
 }
 
-.animacion-inicio {
-    @include texto(35px, justify, 10px, rgb(240, 240, 255));
+h3 {
+    @include texto-h3(15px auto, bold);
 }
