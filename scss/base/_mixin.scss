@@ -1,0 +1,10 @@
+@mixin texto ($size, $align, $padding, $color) {
+    font-size: $size;
+    text-align: $align;
+    padding: $padding;
+    color: $color;
+}
+
+.animacion-inicio {
+    @include texto(35px, justify, 10px, rgb(240, 240, 255));
+}
