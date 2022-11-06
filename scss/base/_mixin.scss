@@ -1,8 +1,5 @@
-@mixin texto-h3 ($margin, $weight) {
-    margin: $margin;
-    font-weight: $weight;
-}
-
-h3 {
-    @include texto-h3(15px auto, bold);
+@mixin contacto ($margin-top, $margin-bottom) {
+    margin-top: $margin-top;
+    margin-bottom: $margin-bottom;
+    
 }

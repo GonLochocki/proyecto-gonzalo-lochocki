@@ -1,0 +1,19 @@
+/* <<<<<< Contacto >>>>>> */
+
+.email, .telefono, header {
+    @include contacto(20px, 20px);
+}
+
+
+
+header {
+    background-color: orange;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    font-size: 25px;   
+}
+
+.cont-contact {
+    background-color: lightsteelblue;
+}
