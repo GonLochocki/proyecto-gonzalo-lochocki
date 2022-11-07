@@ -232,21 +232,73 @@ h3 {
 }
 
 /* <<<<<< Contacto >>>>>> */
-.email, .telefono, header {
+.email, .telefono {
   margin-top: 20px;
   margin-bottom: 20px;
 }
 
-header {
-  background-color: orange;
-  padding-left: 20px;
-  padding-right: 20px;
+#fondo-contacto {
+  background: linear-gradient(45deg, rgb(0, 0, 0), rgb(118, 130, 132), black);
+  background-size: 400% 400%;
+  position: relative;
+  animation: cambiarColor 5s ease infinite;
+}
+
+@keyframes cambiarColor {
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}
+.redes {
   text-align: center;
+  margin-top: 70px;
+  margin-bottom: 40px;
+}
+.redes h2 {
+  color: white;
+}
+
+.contacto-pie {
+  margin-bottom: 100px;
+  background-color: white;
+  text-align: center;
+}
+.contacto-pie a {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.pie-cont {
+  text-align: center;
+  color: white;
   font-size: 25px;
+}
+.pie-cont a {
+  text-decoration: none;
 }
 
 .cont-contact {
-  background-color: lightsteelblue;
+  background-color: black;
+  color: white;
+}
+
+.mensaje {
+  margin-bottom: 15px;
+}
+
+.boton {
+  padding: 10px;
+  color: white;
+  background-color: rgb(60, 104, 75);
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 /*# sourceMappingURL=mainStyle.css.map */

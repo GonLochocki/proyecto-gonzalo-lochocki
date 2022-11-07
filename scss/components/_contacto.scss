@@ -1,19 +1,70 @@
 /* <<<<<< Contacto >>>>>> */
 
-.email, .telefono, header {
+.email, .telefono {
     @include contacto(20px, 20px);
 }
 
 
 
-header {
-    background-color: orange;
-    padding-left: 20px;
-    padding-right: 20px;
-    text-align: center;
-    font-size: 25px;   
+#fondo-contacto {
+    background: linear-gradient(45deg,rgb(0, 0, 0), rgb(118, 130, 132), black);
+    background-size: 400% 400%;
+    position: relative;
+    animation: cambiarColor 5s ease infinite;  
 }
 
+@keyframes cambiarColor {
+    0% {background-position: 0 50%;}
+    50% { background-position: 100% 50%;}
+    100% {background-position: 0 50%;}
+}
+
+.redes {
+    h2 {
+        color:white               
+    }
+    text-align: center;
+    @include contacto(70px, 40px);
+}
+
+.contacto-pie {
+
+    margin-bottom: 100px;
+    background-color: white;
+    text-align: center;  
+
+        a {
+            padding-left: 25px;
+            padding-right: 25px;
+        }
+}
+
+.pie-cont {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+
+        a {
+            text-decoration: none;
+        }
+}
+
+
 .cont-contact {
-    background-color: lightsteelblue;
+    background-color: black;
+    color: white;       
+    
+}
+
+.mensaje {
+    margin-bottom: 15px; 
+}
+
+.boton {
+    padding: 10px;
+    color: white;
+    background-color: rgb(60, 104, 75);
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;    
 }
