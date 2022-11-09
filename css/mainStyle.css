@@ -142,9 +142,16 @@
 #fondo-principal {
   background-image: url("../img/Fondo nuevo.jpg");
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
+  background-color: black;
 }
 
+@media screen and (max-width: 576px) {
+  #fondo-principal {
+    background-image: url("../img/fondo blanco.jpg");
+    background-repeat: repeat;
+  }
+}
 .animacion-inicio {
   font-size: 35px;
   text-align: justify;
@@ -152,6 +159,11 @@
   color: rgb(240, 240, 255);
 }
 
+@media screen and (max-width: 576px) {
+  .anim-mio {
+    display: none;
+  }
+}
 .titulo {
   text-align: center;
   background: rgb(37, 187, 189);

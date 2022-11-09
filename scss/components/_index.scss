@@ -3,14 +3,28 @@
 #fondo-principal {
     background-image: url("../img/Fondo\ nuevo.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
-  }
+    background-size:cover;
+    background-color: black;      
+  }  
+
+ @media screen and (max-width: 576px) {
+  #fondo-principal {
+    background-image: url("../img/fondo\ blanco.jpg");
+    background-repeat: repeat;    
+ }
+} 
   
   .animacion-inicio {
     font-size: nth($size , 7);
     text-align: justify;
     padding: nth($size , 2);
     color: nth($colores , 1);
+  }
+
+  @media screen and (max-width: 576px) {
+    .anim-mio {
+      display: none;
+    }
   }
   
   .titulo {
