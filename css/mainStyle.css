@@ -1,6 +1,12 @@
 /* <<<<< Accesorios >>>>> */
-#fondo-accesorios nav {
-  margin-bottom: 10px;
+#fondo-accesorios {
+  background-image: url("../img/fondo accesorios.png");
+}
+
+#galeria-accesorios {
+  background-color: white;
+  border-right: solid black 2px;
+  border-left: solid black 2px;
 }
 
 .pie {
