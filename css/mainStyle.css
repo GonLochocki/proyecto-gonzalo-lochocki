@@ -231,7 +231,7 @@
 
 /* <<<<< Caracteristicas >><*/
 #fondo-caracteristicas {
-  background-image: url("../img/fondo nota musical.jpg");
+  background-image: url("../img/FONDONOTAMUSICAL.jpg");
   background-repeat: repeat;
 }
 
@@ -265,7 +265,7 @@ h3 {
   background: linear-gradient(45deg, rgb(0, 0, 0), rgb(118, 130, 132), black);
   background-size: 400% 400%;
   position: relative;
-  animation: cambiarColor 5s ease infinite;
+  animation: cambiarColor 4s ease infinite;
 }
 
 @keyframes cambiarColor {
@@ -279,6 +279,23 @@ h3 {
     background-position: 0 50%;
   }
 }
+.formulario-contenedor {
+  background-color: black;
+  padding-bottom: 15px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.formulario-contenedor .text-color {
+  color: white;
+}
+.formulario-contenedor .etiqueta {
+  padding-top: 10px;
+}
+.formulario-contenedor textarea {
+  resize: none;
+  margin-top: 15px;
+}
+
 .redes {
   text-align: center;
   margin-top: 70px;
@@ -305,24 +322,6 @@ h3 {
 }
 .pie-cont a {
   text-decoration: none;
-}
-
-.cont-contact {
-  background-color: black;
-  color: white;
-}
-
-.mensaje {
-  margin-bottom: 15px;
-}
-
-.boton {
-  padding: 10px;
-  color: white;
-  background-color: rgb(60, 104, 75);
-  border-radius: 10px;
-  margin-top: 10px;
-  margin-bottom: 10px;
 }
 
 /* Barra de navegacion */

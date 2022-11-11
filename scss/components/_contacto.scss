@@ -4,19 +4,41 @@
     @include contacto(20px, 20px);
 }
 
-
-
 #fondo-contacto {
     background: linear-gradient(45deg,rgb(0, 0, 0), rgb(118, 130, 132), black);
     background-size: 400% 400%;
     position: relative;
-    animation: cambiarColor 5s ease infinite;  
+    animation: cambiarColor 4s ease infinite;  
 }
 
 @keyframes cambiarColor {
     0% {background-position: 0 50%;}
     50% { background-position: 100% 50%;}
     100% {background-position: 0 50%;}
+}
+
+.formulario-contenedor {
+    background-color: nth($colores , 5);
+    padding-bottom: 15px; 
+    border-bottom-left-radius: 20px; 
+    border-bottom-right-radius: 20px; 
+
+    .text-color{
+        color: nth($colores , 4)
+    }
+            
+    .etiqueta {
+        padding-top: 10px;
+    }
+
+    textarea {
+        resize: none;
+        margin-top: 15px;
+    }
+
+    
+
+    
 }
 
 .redes {
@@ -26,6 +48,9 @@
     text-align: center;
     @include contacto(70px, 40px);
 }
+
+
+
 
 .contacto-pie {
 
@@ -50,21 +75,4 @@
 }
 
 
-.cont-contact {
-    background-color: black;
-    color: white;       
-    
-}
 
-.mensaje {
-    margin-bottom: 15px; 
-}
-
-.boton {
-    padding: 10px;
-    color: white;
-    background-color: rgb(60, 104, 75);
-    border-radius: 10px;
-    margin-top: 10px;
-    margin-bottom: 10px;    
-}
