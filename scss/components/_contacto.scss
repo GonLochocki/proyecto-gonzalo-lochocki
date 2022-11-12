@@ -20,8 +20,8 @@
 .formulario-contenedor {
     background-color: nth($colores , 5);
     padding-bottom: 15px; 
-    border-bottom-left-radius: 20px; 
-    border-bottom-right-radius: 20px; 
+    border-radius: 20px; 
+    border: solid white 1px;   
 
     .text-color{
         color: nth($colores , 4)
@@ -36,7 +36,17 @@
         margin-top: 15px;
     }
 
-    
+    .formulario-boton {      
+        margin-top: 10px;
+        text-align: center;
+        
+        input {
+            padding: 5px 50px;
+            background-color: rgb(74, 120, 74);
+            border-radius: 10px;
+            color: nth($colores , 4);
+        }
+    }
 
     
 }
@@ -49,14 +59,13 @@
     @include contacto(70px, 40px);
 }
 
-
-
-
 .contacto-pie {
 
-    margin-bottom: 100px;
-    background-color: white;
+    margin-bottom: 50px;
+    background-color: nth($colores , 4);
     text-align: center;  
+    border-radius: 10px;
+    
 
         a {
             padding-left: 25px;
@@ -65,14 +74,34 @@
 }
 
 .pie-cont {
+    height: 35px;
+    width: 130px;
+    background-color: rgb(74, 120, 74) ;
+    border-radius: 10px;
+    border: solid black 2px;
     text-align: center;
     color: white;
-    font-size: 25px;
+    font-size: 20px;
+    font-family: 'roboto';
 
         a {
             text-decoration: none;
         }
 }
 
+.formulario-titulo {
+    @include contacto (50px, 50px);
+    color: nth($colores, 4);
+    text-align: center;
+    font-family: 'roboto';
+}
 
+.animacion-redes {
+    @include contacto (50px, 0px);
+    
+        .contacto-pie {
+            border: solid black 2px;
+           
+        }
+}
 

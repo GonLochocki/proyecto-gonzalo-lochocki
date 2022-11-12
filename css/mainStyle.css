@@ -12,6 +12,7 @@
 .pie {
   font-size: 20px;
   text-align: center;
+  font-family: "roboto";
   background: rgb(146, 146, 153);
   background: linear-gradient(90deg, rgb(146, 146, 153) 0%, rgb(24, 24, 24) 100%);
 }
@@ -40,6 +41,7 @@
   padding: 5px;
   height: 50px;
   font-size: 30px;
+  font-family: "roboto";
   background: rgb(37, 187, 189);
   background: linear-gradient(344deg, rgb(37, 187, 189) 0%, rgb(86, 111, 111) 100%);
 }
@@ -67,6 +69,7 @@
 .pie {
   text-align: center;
   font-size: 20px;
+  font-family: "roboto";
   background: rgb(37, 187, 189);
   background: linear-gradient(344deg, rgb(37, 187, 189) 0%, rgb(86, 111, 111) 100%);
 }
@@ -166,6 +169,7 @@
 }
 .animacion-inicio {
   font-size: 35px;
+  font-family: "roboto";
   text-align: justify;
   padding: 10px;
   color: rgb(240, 240, 255);
@@ -282,8 +286,8 @@ h3 {
 .formulario-contenedor {
   background-color: black;
   padding-bottom: 15px;
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
+  border-radius: 20px;
+  border: solid white 1px;
 }
 .formulario-contenedor .text-color {
   color: white;
@@ -294,6 +298,16 @@ h3 {
 .formulario-contenedor textarea {
   resize: none;
   margin-top: 15px;
+}
+.formulario-contenedor .formulario-boton {
+  margin-top: 10px;
+  text-align: center;
+}
+.formulario-contenedor .formulario-boton input {
+  padding: 5px 50px;
+  background-color: rgb(74, 120, 74);
+  border-radius: 10px;
+  color: white;
 }
 
 .redes {
@@ -306,9 +320,10 @@ h3 {
 }
 
 .contacto-pie {
-  margin-bottom: 100px;
+  margin-bottom: 50px;
   background-color: white;
   text-align: center;
+  border-radius: 10px;
 }
 .contacto-pie a {
   padding-left: 25px;
@@ -316,12 +331,34 @@ h3 {
 }
 
 .pie-cont {
+  height: 35px;
+  width: 130px;
+  background-color: rgb(74, 120, 74);
+  border-radius: 10px;
+  border: solid black 2px;
   text-align: center;
   color: white;
-  font-size: 25px;
+  font-size: 20px;
+  font-family: "roboto";
 }
 .pie-cont a {
   text-decoration: none;
+}
+
+.formulario-titulo {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: white;
+  text-align: center;
+  font-family: "roboto";
+}
+
+.animacion-redes {
+  margin-top: 50px;
+  margin-bottom: 0px;
+}
+.animacion-redes .contacto-pie {
+  border: solid black 2px;
 }
 
 /* Barra de navegacion */

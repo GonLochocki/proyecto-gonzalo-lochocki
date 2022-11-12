@@ -5,6 +5,7 @@
     padding: map-get($titulo-guitarra, relleno);
     height: map-get($titulo-guitarra, alto);
     font-size: map-get($titulo-guitarra, fuente-dim);
+    font-family: 'roboto';
     background: rgb(37, 187, 189);
     background: linear-gradient(
       344deg,
@@ -39,6 +40,7 @@
   .pie {
     text-align: center;
     font-size: nth($size, 4);
+    font-family: 'roboto';
     background: rgb(37, 187, 189);
     background: linear-gradient(344deg, rgb(37, 187, 189) 0%, rgb(86, 111, 111) 100%);
   
