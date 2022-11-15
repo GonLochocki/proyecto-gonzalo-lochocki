@@ -61,7 +61,7 @@
 
 .contacto-pie {
 
-    margin-bottom: 50px;
+    margin-bottom: 80px;
     background-color: nth($colores , 4);
     text-align: center;  
     border-radius: 10px;
@@ -73,21 +73,7 @@
         }
 }
 
-.pie-cont {
-    height: 35px;
-    width: 130px;
-    background-color: rgb(74, 120, 74) ;
-    border-radius: 10px;
-    border: solid black 2px;
-    text-align: center;
-    color: white;
-    font-size: 20px;
-    font-family: 'roboto';
 
-        a {
-            text-decoration: none;
-        }
-}
 
 .formulario-titulo {
     @include contacto (50px, 50px);

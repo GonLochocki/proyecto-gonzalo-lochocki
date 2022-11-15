@@ -320,7 +320,7 @@ h3 {
 }
 
 .contacto-pie {
-  margin-bottom: 50px;
+  margin-bottom: 80px;
   background-color: white;
   text-align: center;
   border-radius: 10px;
@@ -328,21 +328,6 @@ h3 {
 .contacto-pie a {
   padding-left: 25px;
   padding-right: 25px;
-}
-
-.pie-cont {
-  height: 35px;
-  width: 130px;
-  background-color: rgb(74, 120, 74);
-  border-radius: 10px;
-  border: solid black 2px;
-  text-align: center;
-  color: white;
-  font-size: 20px;
-  font-family: "roboto";
-}
-.pie-cont a {
-  text-decoration: none;
 }
 
 .formulario-titulo {
@@ -360,7 +345,5 @@ h3 {
 .animacion-redes .contacto-pie {
   border: solid black 2px;
 }
-
-/* Barra de navegacion */
 
 /*# sourceMappingURL=mainStyle.css.map */
