@@ -7,20 +7,18 @@
   .modificado {
     margin-left: nth($size , 3);
     margin-right: nth($size , 3);
+        .vid-mod {
+          padding: nth($size , 2);
+          .borde {
+            border: solid white 1px;
+          }
+        }
   }
   
   .fondo-video {
     background-color: nth($colores , 5);
   }
-  
-  .borde {
-    border: solid white 1px;
-  }
-  
-  .vid-mod {
-    padding: nth($size , 2);
-  }
-  
+       
   .pie {
     font-size: 20px;
     text-align: center;
