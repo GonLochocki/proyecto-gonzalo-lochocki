@@ -1,6 +1,0 @@
-* Uso de etiquetas semánticas.
-* Uso de etiquetas <meta> para describir el contenido y utilizar keywords.
-* Descripición de imagenes (ALT).
-* Descripción de videos (title).
-* Creacion de un sitemap (falta aún).
-
