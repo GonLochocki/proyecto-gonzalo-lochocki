@@ -125,12 +125,11 @@
   padding: 50px;
   color: blue;
 }
-
-.m {
+.mod .m {
   margin: 20px;
   background-color: black;
 }
-.m .card-text {
+.mod .m .card-text {
   color: rgb(11, 151, 198);
 }
 
