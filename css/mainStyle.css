@@ -130,6 +130,9 @@
   margin: 20px;
   background-color: black;
 }
+.m .card-text {
+  color: rgb(11, 151, 198);
+}
 
 .pie {
   font-size: 20px;
