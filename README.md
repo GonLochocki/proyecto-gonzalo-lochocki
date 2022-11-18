@@ -11,3 +11,5 @@ Para este proyecto se estableció:
 * Información acerca de los artistas.
 * Discografías.
 
+proyecto subido al servidor:
+https://blog-music-proyect.000webhostapp.com/index.html
