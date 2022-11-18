@@ -10,20 +10,42 @@
 }
 
 h3 {
-  margin: 15px auto; 
+  margin: 15px auto;
   font-weight: bold;
 }
 
 .pie {
-  font-size: nth($size , 4); // lista
+  font-size: nth($size, 4); // lista
   text-align: center;
   background: rgb(146, 146, 153);
   background: linear-gradient(
     90deg,
     rgba(146, 146, 153, 1) 0%,
-    rgba(24, 24, 24, 1) 100%);    
-     a {
-       text-decoration: $sin-decoracion; // variable
-       color: nth($colores , 4);  // lista
+    rgba(24, 24, 24, 1) 100%
+  );
+  a {
+    text-decoration: $sin-decoracion; // variable
+    color: nth($colores, 4); // lista
+  }
 }
+
+.boton {
+  position: fixed;
+  top: 500px;
+  right: 20px;
+  width: 30px;
+  border-radius: 50%;
+ 
+  .menu {
+    text-align: center;
+    background: white;
+    border-radius: 50%;
+    box-shadow: 0px 1px 10px rgba(146, 146, 153, 1);
+    transition: all 500ms ease;
+    
+    a {     
+      
+      text-decoration: none;
+    }
+  }
 }
